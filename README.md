@@ -1,4 +1,4 @@
-# fraudsters 
+# Fraudster
 
 ## Fraudsters - Instagram Tool Repository.
 
