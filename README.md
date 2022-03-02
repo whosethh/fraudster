@@ -2,7 +2,7 @@
 
 ## Fraudsters - Instagram Tool Repository.
 
-### This shit made by hate#1337 and [Fraudsters](https://discord.gg/fraudsters)
+### This shit made by fraudster#0001 and [Fraudsters](https://discord.gg/fraudsters)
 
 * Authorization
 * Discord Bot
