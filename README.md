@@ -51,7 +51,7 @@
 | System  | Status   | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | Authorization| `Active` | Authorization Due to Only Permitted People Log in. |
-| Discord Bo| `Active` (Temporary) | This System is temporary to handle granting people acess to start using tool. |
+| Discord Bot| `Active` (Temporary) | This System is temporary to handle granting people acess to start using tool. |
 | Website Developer Panel| `Being Worked on.` | This System is being worked on. |
 | Account Creation| `Being Worked on.` | his System is being worked on. |
 | Account/Post Reporter| `Being Worked on.` | his System is being worked on. |
