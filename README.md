@@ -51,7 +51,7 @@
 | Discord Bot| `Active` (Temporary) | This System is temporary to handle granting people acess to start using tool. |
 | Web Developer Panel| `Being Worked on.` | This System is being worked on. |
 | Web User Panel| `Being Worked on.` | This System is being worked on. |
-| Account Creation| `Being Worked on.` | his System is being worked on. |
-| Account/Post Reporter| `Being Worked on.` | his System is being worked on. |
-| Account Follower| `Being Worked on.` | his System is being worked on. |
-| Post Liker| `Being Worked on.` | his System is being worked on. |
+| Account Creation| `Being Worked on.` | This System is being worked on. |
+| Account/Post Reporter| `Being Worked on.` | This System is being worked on. |
+| Account Follower| `Being Worked on.` | This System is being worked on. |
+| Post Liker| `Being Worked on.` | This System is being worked on. |
