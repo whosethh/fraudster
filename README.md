@@ -14,11 +14,11 @@
 # Payment Methods to Buy
 ### Only (US Dollars $)
 
-![Bitcoin](https://img.shields.io/badge/-000?style=for-the-badge&logo=bitcoin&logoColor=white) 
-![Ethereum](https://img.shields.io/badge/-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) 
+![Bitcoin](https://img.shields.io/badge/-000?style=for-the-badge&logo=bitcoin&logoColor=white) /
+![Ethereum](https://img.shields.io/badge/-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) /
 ![PayPal](https://img.shields.io/badge/-00457C?style=for-the-badge&logo=paypal&logoColor=white) 
-![Ko-Fi](https://img.shields.io/badge/-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) 
-![Google Pay](https://img.shields.io/badge/-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white) 
+![Ko-Fi](https://img.shields.io/badge/-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) /
+![Google Pay](https://img.shields.io/badge/-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white) /
 ![Apple Pay](https://img.shields.io/badge/-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white)
 
 | System  | Status   | Description                       |
