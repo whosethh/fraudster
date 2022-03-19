@@ -25,3 +25,7 @@
 ![Ko-Fi](https://img.shields.io/badge/310-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)\
 ![Google Pay](https://img.shields.io/badge/310-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)\
 ![Apple Pay](https://img.shields.io/badge/310-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white)
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `string` | **Required**. Id of item to fetch |
