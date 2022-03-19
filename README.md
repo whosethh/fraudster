@@ -21,6 +21,34 @@
 ![Google Pay](https://img.shields.io/badge/-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
 ![Apple Pay](https://img.shields.io/badge/-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white)
 
+# Pricing
+
+### Note: First Of All, Reselling is Prohibited. Theres 2 types of Product You can buy. 1. Tool Acess, 2. Follower Boost
+
+| Amount  | Price   |
+| :-------- | :------- |
+| 1.000 Followers | `3$` |
+| 2.500 Followers | `6$` |
+| 5.000 Followers | `10$` |
+| 10.000 Followers | `20$` |
+| 20.000 Followers | `40$` |
+| 40.000 Followers | `80$` |
+| 100.000 Followers | `150$` |
+
+### Note The Followers Are Staying You will get no loses, in any kind of loses we will send the followers back.
+
+
+| Tier  | Price   |
+| :-------- | :------- |
+| 24 Hours | `300$` |
+| 1 Month  | `600` |
+| 3 Month | `900$` |
+| 1 Year | `1.000$` |
+| Lifetime | `3.000$` |
+
+### Note, Your IP will be saved as well as your hardware ID due if you're trying to resell We'll check, and if you're reselling/sharing your key You will get blacklisted. No matter what yout tier is.
+
+
 | System  | Status   | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | Authorization| `Active` | Authorization Due to Only Permitted People Log in. |
