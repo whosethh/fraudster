@@ -12,7 +12,7 @@
 
 * What does `Fraudster` made with? ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-## Payment Methods to Buy
+## Payment Methods to Buy (US Dollars $)
 
 ![Bitcoin](https://img.shields.io/badge/310-000?style=for-the-badge&logo=bitcoin&logoColor=white) 
 ![Ethereum](https://img.shields.io/badge/310-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) 
@@ -21,7 +21,7 @@
 ![Google Pay](https://img.shields.io/badge/310-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white) 
 ![Apple Pay](https://img.shields.io/badge/310-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white)
 
-| Function  | Status   | Description                       |
+| System  | Status   | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | Authorization| `Active` | Authorization Due to Only Permitted People Log in. |
 | Discord Bo| `Active` (Temporary) | This System is temporary to handle granting people acess to start using tool. |
