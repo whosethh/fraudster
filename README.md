@@ -4,10 +4,9 @@
 
 * [Developer's Discord Profile](https://lookup.guru/920364039568236565)
 
-![Discord](https://img.shields.io/badge/%3Cfraudster%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Instagram](https://img.shields.io/badge/<@whosshatee>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) 
-
 # FAQ
-* What does `Fraudster` made with? ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+* What does `Fraudster` made with? `Pyton` `SQL` `Archlinux` `BeautifulSoup4`
+* 
 * How much is the tool authorization? ![Click Here For Info]("https://github.com/fraudsterontop/fraudster/blob/master/README.md#payment-methods-to-buy-us-dollars-")
 
 # Pricing
