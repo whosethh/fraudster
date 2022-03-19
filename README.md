@@ -10,17 +10,6 @@
 * What does `Fraudster` made with? ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 * How much is the tool authorization? ![Click Here For Info]("https://github.com/fraudsterontop/fraudster/blob/master/README.md#payment-methods-to-buy-us-dollars-")
 
-
-# Payment Methods to Buy
-### Only (US Dollars $)
-
-![Bitcoin](https://img.shields.io/badge/-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)\
-![PayPal](https://img.shields.io/badge/-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-![Ko-Fi](https://img.shields.io/badge/-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)\
-![Google Pay](https://img.shields.io/badge/-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
-![Apple Pay](https://img.shields.io/badge/-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white)
-
 # Pricing
 
 ### Note: First Of All, Reselling is Prohibited. Theres 2 types of Product You can buy. 1. Tool Acess, 2. Follower Boost
@@ -48,6 +37,16 @@
 
 ### Note, Your IP will be saved as well as your hardware ID due if you're trying to resell We'll check, and if you're reselling/sharing your key You will get blacklisted. No matter what yout tier is.
 
+# Payment Methods
+
+| Method  | Adress   |
+| :-------- | :------- |
+| Bitcoin | `bc1qlfxue2g5ggduq3swg9xaquvw0utfffa4wp4w9p`|
+| Etherium | `0x1F170d5935F7E83c0ba22249f821A1a425b8f5E0`|
+| Solana | `2RWJgaGkvhpKX9dsfDaYvJyZptRi3J7HZT1SjN1b9KaL`|
+
+## Soon More Payment Methods will be added.
+## Fees are on customers side.
 
 | System  | Status   | Description                       |
 | :-------- | :------- | :-------------------------------- |
