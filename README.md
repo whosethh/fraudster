@@ -4,11 +4,6 @@
 
 ### This shit made by fraudster#0001 and [Fraudsters](https://discord.gg/fraudsters)
 
-* Authorization
-* Discord Bot
-* Developer Panel
-* And ton of other stuff
-* This repository is Private right now due to tool is private and can be used by certain people. Only `Fraudsters` and The acess only can be given by `hate#1337`
 * [Developer's Discord Profile](https://lookup.guru/920364039568236565)
 
 ![Discord](https://img.shields.io/badge/%3Cfraudster%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Instagram](https://img.shields.io/badge/<@whosshatee>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) 
@@ -19,14 +14,19 @@
 
 ## Payment Methods to Buy
 
-![Bitcoin](https://img.shields.io/badge/310-000?style=for-the-badge&logo=bitcoin&logoColor=white)\
-![Ethereum](https://img.shields.io/badge/310-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)\
-![PayPal](https://img.shields.io/badge/310-00457C?style=for-the-badge&logo=paypal&logoColor=white)\
-![Ko-Fi](https://img.shields.io/badge/310-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)\
-![Google Pay](https://img.shields.io/badge/310-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)\
+![Bitcoin](https://img.shields.io/badge/310-000?style=for-the-badge&logo=bitcoin&logoColor=white) 
+![Ethereum](https://img.shields.io/badge/310-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) 
+![PayPal](https://img.shields.io/badge/310-00457C?style=for-the-badge&logo=paypal&logoColor=white) 
+![Ko-Fi](https://img.shields.io/badge/310-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) 
+![Google Pay](https://img.shields.io/badge/310-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white) 
 ![Apple Pay](https://img.shields.io/badge/310-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white)
-
 
 | Function  | Status   | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| Authorization     | `Active` | Authorization Due to Only Permitted People Log in. |
+| Authorization| `Active` | Authorization Due to Only Permitted People Log in. |
+| Discord Bo| `Active` (Temporary) | This System is temporary to handle granting people acess to start using tool. |
+| Website Developer Panel| `Being Worked on.` | This System is being worked on. |
+| Account Creation| `Being Worked on.` | his System is being worked on. |
+| Account/Post Reporter| `Being Worked on.` | his System is being worked on. |
+| Account Follower| `Being Worked on.` | his System is being worked on. |
+| Post Liker| `Being Worked on.` | his System is being worked on. |
