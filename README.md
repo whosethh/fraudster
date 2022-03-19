@@ -10,8 +10,7 @@
 
 # Pricing
 
-### Note: First Of All, Reselling is Prohibited. Theres 2 types of Product You can buy. 1. Tool Acess, 2. Follower Boost
-
+### Note: First Of All, Reselling is Prohibited. Theres 2 types of Product You can buy. 1. Follower Boost 2. Tool Acess
 | Amount  | Price   |
 | :-------- | :------- |
 | 1.000 Followers | `3$` |
