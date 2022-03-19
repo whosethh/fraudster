@@ -6,7 +6,6 @@
 
 # FAQ
 * What does `Fraudster` made with? `Pyton` `SQL` `Archlinux` `BeautifulSoup4`
-* 
 * How much is the tool authorization? ![Click Here For Info]("https://github.com/fraudsterontop/fraudster/blob/master/README.md#payment-methods-to-buy-us-dollars-")
 
 # Pricing
